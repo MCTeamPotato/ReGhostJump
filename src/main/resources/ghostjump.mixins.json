@@ -1,0 +1,14 @@
+{
+  "required": false,
+  "minVersion": "0.8",
+  "package": "com.teampotato.ghostjump.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "ghostjump.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
